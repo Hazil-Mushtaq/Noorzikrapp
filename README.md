@@ -1,10 +1,7 @@
 # 🌙 Noor – Islamic Zikr App
-
-[![Download Noor APK](https://img.shields.io/badge/Download-Noor_APK-green?style=for-the-badge&logo=android)](https://github.com/Hazil-Mushtaq/Noor/releases/latest)
-
+ 
 Noor is a privacy-first Islamic Zikr app designed to help Muslims remember Allah daily.
-[![Download Noor APK](https://img.shields.io/badge/Download-Noor_APK-green?style=for-the-badge&logo=android)](https://github.com/Hazil-Mushtaq/Noor/releases/latest)
-
+ 
 <img width="718" height="1599" alt="image" src="https://github.com/user-attachments/assets/795cc34b-a666-43a5-ba70-9b0859e2364d" />
 <img width="718" height="1599" alt="image" src="https://github.com/user-attachments/assets/c9438e72-786e-4414-8c72-fe54ebfc3776" />
 
